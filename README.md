@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🔭 I’m currently studying in Nankai University
+📫 How to reach me:1144764005@qq.com
 <!--
 **jiang-y-h/jiang-y-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
